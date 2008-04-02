@@ -1,0 +1,7 @@
+Copyright 2003,2008 Arnab
+
+This project is distributed under GPLV3 Licence. A copy of the license is included with this program, see Copying.txt.
+
+Compiling the program
+---------------------
+This program was compiled with Borland C++ Builder 3.0. Since it uses the BCB class library it is not immediately portable to any other language, or C++ compiler. However, it should compile with any future version of Borland C++ Builder.
